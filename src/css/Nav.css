@@ -1,0 +1,13 @@
+.nav {
+    background: rgb(204, 204, 241);
+    color: white;
+    padding: 5px;
+  }
+
+.nav-item{
+  background: white;
+  margin-right: 10px;
+  border-radius: 10px;
+  color: black;
+  border-style: inset;
+}
