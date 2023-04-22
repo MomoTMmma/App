@@ -3,8 +3,9 @@ import '../css/Home.css'
 
 const Home = () => {
     return (
+        <body>
         <div>
-            <h1> Welcome to whatever</h1>
+            <h1> Welcome to What's That!</h1>
 
 
             <div className="container" style={{width: 20 + 'rem'}}>
@@ -23,6 +24,7 @@ const Home = () => {
                     </div>
             </div>
         </div>
+        </body>
     );
 }
 
